@@ -1,35 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TaskFlow
 
-## Getting Started
+**TaskFlow** is a web application designed to help users efficiently manage their tasks. The project integrates a custom backend built with **Express.js** and a frontend developed using **Next.js**. It demonstrates core backend concepts and seamless frontend-backend integration, making it a great learning experience.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [About the Project](#about-the-project)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+  
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## About the Project
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+TaskFlow is a simple yet robust task manager application that allows users to create, manage, update, and delete tasks. It emphasizes learning backend development with **Express.js** and integrating it into a modern **Next.js** project.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Backend:
+- **Node.js**
+- **Express.js** (custom backend implementation)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Frontend:
+- **Next.js**
 
-## Deploy on Vercel
+### Additional Tools:
+- **RESTful APIs**
+- **Postman** (for API testing)
+- **JSON** for data storage (development phase)
+
+---
+
+## Features
+
+- Add new tasks with details such as title, description, and priority.
+- View a list of all tasks with real-time updates.
+- Edit or update task details.
+- Delete tasks.
+- Backend handles basic CRUD operations.
+- Seamless integration between the frontend and backend.
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
