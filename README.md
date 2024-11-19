@@ -1,6 +1,6 @@
 # TaskFlow
 
-**TaskFlow** is a web application designed to help users efficiently manage their tasks. The project integrates a custom backend built with **Express.js** and a frontend developed using **Next.js**. It demonstrates core backend concepts and seamless frontend-backend integration, making it a great learning experience.
+**TaskFlow** is a web application designed to help users efficiently manage their tasks. The project integrates a custom backend built with **Express.js** and a frontend developed using **Next.js**. It demonstrates core backend concepts and seamless frontend-backend integration, with authentication and password hashing methods, making it a great learning experience.
 
 ---
 
