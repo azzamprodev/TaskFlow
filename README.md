@@ -9,11 +9,6 @@
 - [About the Project](#about-the-project)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Learnings](#learnings)
-- [Future Improvements](#future-improvements)
 
 ---
 
@@ -50,7 +45,3 @@ TaskFlow is a simple yet robust task manager application that allows users to cr
 - Delete tasks.
 - Backend handles basic CRUD operations.
 - Seamless integration between the frontend and backend.
-
----
-
-## Project Structure
